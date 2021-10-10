@@ -1,0 +1,369 @@
+body {
+  font-family: 'Lucida Console', Monaco, monospace;
+}
+
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+nav {
+  background: black;
+  position: fixed;
+  width: 100%;
+}
+
+nav ul {
+  display: flex;
+  list-style-type: none;
+}
+nav ul li {
+  margin-right: 20px;
+}
+
+a {
+  text-decoration: none !important;
+}
+
+nav ul li a {
+  color: white !important;
+}
+
+.page {
+  padding-top: 70px;
+  margin: 0 auto;
+  max-width: 95%;
+}
+
+.nft {
+  max-width: 100%;
+  cursor: pointer;
+}
+
+.nfts {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.underline {
+  border: red 2px solid;
+}
+
+.nftDiv {
+  margin: 5px 5px;
+}
+
+.nfts .nftDiv {
+  max-width: 100px;
+}
+
+p {
+  margin: 0;
+  font-size: 8px;
+}
+
+.traitKeyValueImportant {
+  font-weight: bold;
+  /* font-size: 12px; */
+  color: green;
+}
+
+.centered {
+  text-align: center;
+}
+
+.singleNftView .nft {
+  max-width: 300px;
+}
+
+.nftDiv.singleNftView {
+  padding-right: 40px;
+}
+
+.singleNft {
+  display: flex;
+}
+
+.singleNftViewDetailPanel .traitList,
+.singleNftViewDetailPanel .raitKeyValue {
+  font-size: 12px;
+}
+
+.singleNftViewDetailPanel .traitKeyValue {
+  border-bottom: 1px solid black;
+  padding-bottom: 5px;
+  margin-bottom: 5px;
+}
+
+.singleNftViewDetailPanel p {
+  font-size: 14px;
+}
+
+.singleNftViewDetailPanel p.label {
+  font-weight: bold;
+  padding-bottom: 2px;
+}
+
+.button_slide {
+  display: block;
+  color: black;
+  border: 2px solid black;
+  border-radius: 0px;
+  padding: 10px 20px;
+  display: inline-block;
+  font-size: 12px;
+  letter-spacing: 1px;
+  cursor: pointer;
+  box-shadow: inset 0 0 0 0 black;
+  -webkit-transition: ease-out 0.4s;
+  -moz-transition: ease-out 0.4s;
+  transition: ease-out 0.4s;
+  margin-right: 15px !important;
+}
+
+.slide_in:hover {
+  box-shadow: inset 0 0 0 50px black;
+  color: white;
+}
+
+.section-top {
+  display: flex;
+  justify-content: space-between;
+}
+
+.section-settings {
+  margin-top: 20px;
+}
+
+.save-space-bottom {
+  margin-bottom: 0;
+}
+
+.save-space-top {
+  margin-top: 0;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.column-trait {
+  border-right: 1px solid black;
+  padding-right: 40px;
+  margin-right: 40px;
+}
+
+.width-100 {
+  width: 100%;
+}
+
+.glitch {
+  display: block;
+  position: relative;
+}
+.glitch:hover:before {
+  animation: glitch-anim 5s infinite linear alternate-reverse;
+  content: attr(data-text);
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  left: 2px;
+  text-shadow: -2px 0 #ff00c1;
+  clip: rect(44px, 450px, 56px, 0);
+}
+.glitch:hover:after {
+  animation: glitch-anim2 1s infinite linear alternate-reverse;
+  content: attr(data-text);
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  left: -2px;
+  text-shadow: -2px 0 #00fff9, 2px 2px #ff00c1;
+}
+
+@keyframes glitch-anim {
+  0% {
+    clip: rect(57px, 9999px, 34px, 0);
+    transform: skew(0.06deg);
+  }
+  5% {
+    clip: rect(40px, 9999px, 72px, 0);
+    transform: skew(0.64deg);
+  }
+  10% {
+    clip: rect(10px, 9999px, 39px, 0);
+    transform: skew(0.73deg);
+  }
+  15% {
+    clip: rect(2px, 9999px, 22px, 0);
+    transform: skew(0.81deg);
+  }
+  20% {
+    clip: rect(51px, 9999px, 47px, 0);
+    transform: skew(0.9deg);
+  }
+  25% {
+    clip: rect(99px, 9999px, 78px, 0);
+    transform: skew(0.51deg);
+  }
+  30% {
+    clip: rect(8px, 9999px, 95px, 0);
+    transform: skew(0.34deg);
+  }
+  35% {
+    clip: rect(90px, 9999px, 43px, 0);
+    transform: skew(0.1deg);
+  }
+  40% {
+    clip: rect(66px, 9999px, 26px, 0);
+    transform: skew(0.98deg);
+  }
+  45% {
+    clip: rect(26px, 9999px, 35px, 0);
+    transform: skew(0.89deg);
+  }
+  50% {
+    clip: rect(78px, 9999px, 6px, 0);
+    transform: skew(0.19deg);
+  }
+  55% {
+    clip: rect(89px, 9999px, 22px, 0);
+    transform: skew(0.11deg);
+  }
+  60% {
+    clip: rect(84px, 9999px, 44px, 0);
+    transform: skew(0.28deg);
+  }
+  65% {
+    clip: rect(52px, 9999px, 40px, 0);
+    transform: skew(0.05deg);
+  }
+  70% {
+    clip: rect(16px, 9999px, 1px, 0);
+    transform: skew(0.06deg);
+  }
+  75% {
+    clip: rect(87px, 9999px, 57px, 0);
+    transform: skew(0.11deg);
+  }
+  80% {
+    clip: rect(43px, 9999px, 7px, 0);
+    transform: skew(0.85deg);
+  }
+  85% {
+    clip: rect(61px, 9999px, 18px, 0);
+    transform: skew(0.15deg);
+  }
+  90% {
+    clip: rect(48px, 9999px, 65px, 0);
+    transform: skew(0.16deg);
+  }
+  95% {
+    clip: rect(34px, 9999px, 70px, 0);
+    transform: skew(0.8deg);
+  }
+  100% {
+    clip: rect(44px, 9999px, 24px, 0);
+    transform: skew(0.66deg);
+  }
+}
+
+@keyframes glitch-anim2 {
+  0% {
+    clip: rect(95px, 9999px, 82px, 0);
+    transform: skew(0.58deg);
+  }
+  5% {
+    clip: rect(31px, 9999px, 57px, 0);
+    transform: skew(0.44deg);
+  }
+  10% {
+    clip: rect(57px, 9999px, 8px, 0);
+    transform: skew(0.12deg);
+  }
+  15% {
+    clip: rect(81px, 9999px, 42px, 0);
+    transform: skew(0.28deg);
+  }
+  20% {
+    clip: rect(48px, 9999px, 38px, 0);
+    transform: skew(0.77deg);
+  }
+  25% {
+    clip: rect(64px, 9999px, 96px, 0);
+    transform: skew(0.86deg);
+  }
+  30% {
+    clip: rect(14px, 9999px, 49px, 0);
+    transform: skew(0.69deg);
+  }
+  35% {
+    clip: rect(51px, 9999px, 94px, 0);
+    transform: skew(0.7deg);
+  }
+  40% {
+    clip: rect(96px, 9999px, 99px, 0);
+    transform: skew(0.7deg);
+  }
+  45% {
+    clip: rect(57px, 9999px, 73px, 0);
+    transform: skew(0.02deg);
+  }
+  50% {
+    clip: rect(84px, 9999px, 21px, 0);
+    transform: skew(0.71deg);
+  }
+  55% {
+    clip: rect(65px, 9999px, 2px, 0);
+    transform: skew(0.01deg);
+  }
+  60% {
+    clip: rect(44px, 9999px, 48px, 0);
+    transform: skew(0.98deg);
+  }
+  65% {
+    clip: rect(34px, 9999px, 20px, 0);
+    transform: skew(0.04deg);
+  }
+  70% {
+    clip: rect(90px, 9999px, 49px, 0);
+    transform: skew(0.66deg);
+  }
+  75% {
+    clip: rect(94px, 9999px, 17px, 0);
+    transform: skew(0.59deg);
+  }
+  80% {
+    clip: rect(44px, 9999px, 43px, 0);
+    transform: skew(0.79deg);
+  }
+  85% {
+    clip: rect(47px, 9999px, 34px, 0);
+    transform: skew(0.34deg);
+  }
+  90% {
+    clip: rect(33px, 9999px, 33px, 0);
+    transform: skew(0.65deg);
+  }
+  95% {
+    clip: rect(10px, 9999px, 87px, 0);
+    transform: skew(0.1deg);
+  }
+  100% {
+    clip: rect(47px, 9999px, 31px, 0);
+    transform: skew(0.33deg);
+  }
+}
+
+.green {
+  color: darkgreen;
+}
+
+.red {
+  color: darkred;
+}

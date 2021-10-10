@@ -1,0 +1,5634 @@
+[
+  {
+    "id": 62,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/62",
+    "name": "Fissure 062",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00062.png",
+    "attributes": {
+      "shape": [
+        "globe"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "glitch"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 69.53125,
+    "rank": 1
+  },
+  {
+    "id": 77,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/77",
+    "name": "Fissure 077",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00077.png",
+    "attributes": {
+      "shape": [
+        "globe"
+      ],
+      "type": [
+        "wormhole"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 96.875,
+    "rank": 2
+  },
+  {
+    "id": 247,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/247",
+    "name": "Fissure 247",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00247.png",
+    "attributes": {
+      "shape": [
+        "globe"
+      ],
+      "type": [
+        "wormhole"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 96.875,
+    "rank": 3
+  },
+  {
+    "id": 2,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/2",
+    "name": "Fissure 002",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00002.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "wormhole"
+      ],
+      "effect": [
+        "blur"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 100.78125,
+    "rank": 4
+  },
+  {
+    "id": 154,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/154",
+    "name": "Fissure 154",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00154.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "uroboros"
+      ],
+      "effect": [
+        "glitch"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 102.34375,
+    "rank": 5
+  },
+  {
+    "id": 114,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/114",
+    "name": "Fissure 114",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00114.png",
+    "attributes": {
+      "shape": [
+        "globe"
+      ],
+      "type": [
+        "closed portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 112.5,
+    "rank": 6
+  },
+  {
+    "id": 200,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/200",
+    "name": "Fissure 200",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00200.png",
+    "attributes": {
+      "shape": [
+        "globe"
+      ],
+      "type": [
+        "liminal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 113.671875,
+    "rank": 7
+  },
+  {
+    "id": 107,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/107",
+    "name": "Fissure 107",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00107.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "liminal"
+      ],
+      "effect": [
+        "autochroma"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 116.015625,
+    "rank": 8
+  },
+  {
+    "id": 129,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/129",
+    "name": "Fissure 129",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00129.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "liminal"
+      ],
+      "effect": [
+        "autochroma"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 116.015625,
+    "rank": 9
+  },
+  {
+    "id": 160,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/160",
+    "name": "Fissure 160",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00160.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "closed portal"
+      ],
+      "effect": [
+        "blur"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 116.40625,
+    "rank": 10
+  },
+  {
+    "id": 153,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/153",
+    "name": "Fissure 153",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00153.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "liminal"
+      ],
+      "effect": [
+        "blur"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 117.578125,
+    "rank": 11
+  },
+  {
+    "id": 6,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/6",
+    "name": "Fissure 006",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00006.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "closed portal"
+      ],
+      "effect": [
+        "glitch"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 118.75,
+    "rank": 12
+  },
+  {
+    "id": 180,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/180",
+    "name": "Fissure 180",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00180.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "closed portal"
+      ],
+      "effect": [
+        "glitch"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 118.75,
+    "rank": 13
+  },
+  {
+    "id": 108,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/108",
+    "name": "Fissure 108",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00108.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "liminal"
+      ],
+      "effect": [
+        "glitch"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 119.921875,
+    "rank": 14
+  },
+  {
+    "id": 31,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/31",
+    "name": "Fissure 031",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00031.png",
+    "attributes": {
+      "shape": [
+        "globe"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 155.46875,
+    "rank": 15
+  },
+  {
+    "id": 70,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/70",
+    "name": "Fissure 070",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00070.png",
+    "attributes": {
+      "shape": [
+        "globe"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 155.46875,
+    "rank": 16
+  },
+  {
+    "id": 73,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/73",
+    "name": "Fissure 073",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00073.png",
+    "attributes": {
+      "shape": [
+        "globe"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 155.46875,
+    "rank": 17
+  },
+  {
+    "id": 188,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/188",
+    "name": "Fissure 188",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00188.png",
+    "attributes": {
+      "shape": [
+        "globe"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 155.46875,
+    "rank": 18
+  },
+  {
+    "id": 201,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/201",
+    "name": "Fissure 201",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00201.png",
+    "attributes": {
+      "shape": [
+        "globe"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 155.46875,
+    "rank": 19
+  },
+  {
+    "id": 43,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/43",
+    "name": "Fissure 043",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00043.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "autochroma"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 157.8125,
+    "rank": 20
+  },
+  {
+    "id": 27,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/27",
+    "name": "Fissure 027",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00027.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "blur"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 159.375,
+    "rank": 21
+  },
+  {
+    "id": 119,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/119",
+    "name": "Fissure 119",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00119.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "blur"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 159.375,
+    "rank": 22
+  },
+  {
+    "id": 139,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/139",
+    "name": "Fissure 139",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00139.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "blur"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 159.375,
+    "rank": 23
+  },
+  {
+    "id": 147,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/147",
+    "name": "Fissure 147",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00147.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "blur"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 159.375,
+    "rank": 24
+  },
+  {
+    "id": 19,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/19",
+    "name": "Fissure 019",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00019.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "glitch"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 161.71875,
+    "rank": 25
+  },
+  {
+    "id": 40,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/40",
+    "name": "Fissure 040",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00040.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "glitch"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 161.71875,
+    "rank": 26
+  },
+  {
+    "id": 65,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/65",
+    "name": "Fissure 065",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00065.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "glitch"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 161.71875,
+    "rank": 27
+  },
+  {
+    "id": 80,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/80",
+    "name": "Fissure 080",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00080.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "glitch"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 161.71875,
+    "rank": 28
+  },
+  {
+    "id": 128,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/128",
+    "name": "Fissure 128",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00128.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "glitch"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 161.71875,
+    "rank": 29
+  },
+  {
+    "id": 131,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/131",
+    "name": "Fissure 131",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00131.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "glitch"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 161.71875,
+    "rank": 30
+  },
+  {
+    "id": 137,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/137",
+    "name": "Fissure 137",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00137.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "glitch"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 161.71875,
+    "rank": 31
+  },
+  {
+    "id": 169,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/169",
+    "name": "Fissure 169",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00169.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "glitch"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 161.71875,
+    "rank": 32
+  },
+  {
+    "id": 42,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/42",
+    "name": "Fissure 042",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00042.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "uroboros"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 188.28125,
+    "rank": 33
+  },
+  {
+    "id": 146,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/146",
+    "name": "Fissure 146",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00146.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "uroboros"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 188.28125,
+    "rank": 34
+  },
+  {
+    "id": 45,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/45",
+    "name": "Fissure 045",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00045.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "wormhole"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 189.0625,
+    "rank": 35
+  },
+  {
+    "id": 245,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/245",
+    "name": "Fissure 245",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00245.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "wormhole"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 189.0625,
+    "rank": 36
+  },
+  {
+    "id": 3,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/3",
+    "name": "Fissure 003",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00003.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "closed portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 204.6875,
+    "rank": 37
+  },
+  {
+    "id": 10,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/10",
+    "name": "Fissure 010",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00010.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "closed portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 204.6875,
+    "rank": 38
+  },
+  {
+    "id": 14,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/14",
+    "name": "Fissure 014",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00014.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "closed portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 204.6875,
+    "rank": 39
+  },
+  {
+    "id": 21,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/21",
+    "name": "Fissure 021",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00021.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "closed portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 204.6875,
+    "rank": 40
+  },
+  {
+    "id": 30,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/30",
+    "name": "Fissure 030",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00030.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "closed portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 204.6875,
+    "rank": 41
+  },
+  {
+    "id": 34,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/34",
+    "name": "Fissure 034",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00034.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "closed portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 204.6875,
+    "rank": 42
+  },
+  {
+    "id": 49,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/49",
+    "name": "Fissure 049",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00049.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "closed portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 204.6875,
+    "rank": 43
+  },
+  {
+    "id": 50,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/50",
+    "name": "Fissure 050",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00050.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "closed portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 204.6875,
+    "rank": 44
+  },
+  {
+    "id": 53,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/53",
+    "name": "Fissure 053",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00053.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "closed portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 204.6875,
+    "rank": 45
+  },
+  {
+    "id": 66,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/66",
+    "name": "Fissure 066",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00066.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "closed portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 204.6875,
+    "rank": 46
+  },
+  {
+    "id": 69,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/69",
+    "name": "Fissure 069",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00069.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "closed portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 204.6875,
+    "rank": 47
+  },
+  {
+    "id": 79,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/79",
+    "name": "Fissure 079",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00079.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "closed portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 204.6875,
+    "rank": 48
+  },
+  {
+    "id": 83,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/83",
+    "name": "Fissure 083",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00083.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "closed portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 204.6875,
+    "rank": 49
+  },
+  {
+    "id": 87,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/87",
+    "name": "Fissure 087",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00087.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "closed portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 204.6875,
+    "rank": 50
+  },
+  {
+    "id": 98,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/98",
+    "name": "Fissure 098",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00098.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "closed portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 204.6875,
+    "rank": 51
+  },
+  {
+    "id": 102,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/102",
+    "name": "Fissure 102",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00102.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "closed portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 204.6875,
+    "rank": 52
+  },
+  {
+    "id": 113,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/113",
+    "name": "Fissure 113",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00113.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "closed portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 204.6875,
+    "rank": 53
+  },
+  {
+    "id": 125,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/125",
+    "name": "Fissure 125",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00125.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "closed portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 204.6875,
+    "rank": 54
+  },
+  {
+    "id": 130,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/130",
+    "name": "Fissure 130",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00130.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "closed portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 204.6875,
+    "rank": 55
+  },
+  {
+    "id": 136,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/136",
+    "name": "Fissure 136",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00136.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "closed portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 204.6875,
+    "rank": 56
+  },
+  {
+    "id": 142,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/142",
+    "name": "Fissure 142",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00142.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "closed portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 204.6875,
+    "rank": 57
+  },
+  {
+    "id": 149,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/149",
+    "name": "Fissure 149",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00149.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "closed portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 204.6875,
+    "rank": 58
+  },
+  {
+    "id": 152,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/152",
+    "name": "Fissure 152",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00152.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "closed portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 204.6875,
+    "rank": 59
+  },
+  {
+    "id": 157,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/157",
+    "name": "Fissure 157",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00157.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "closed portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 204.6875,
+    "rank": 60
+  },
+  {
+    "id": 159,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/159",
+    "name": "Fissure 159",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00159.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "closed portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 204.6875,
+    "rank": 61
+  },
+  {
+    "id": 164,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/164",
+    "name": "Fissure 164",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00164.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "closed portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 204.6875,
+    "rank": 62
+  },
+  {
+    "id": 171,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/171",
+    "name": "Fissure 171",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00171.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "closed portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 204.6875,
+    "rank": 63
+  },
+  {
+    "id": 177,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/177",
+    "name": "Fissure 177",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00177.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "closed portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 204.6875,
+    "rank": 64
+  },
+  {
+    "id": 181,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/181",
+    "name": "Fissure 181",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00181.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "closed portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 204.6875,
+    "rank": 65
+  },
+  {
+    "id": 182,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/182",
+    "name": "Fissure 182",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00182.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "closed portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 204.6875,
+    "rank": 66
+  },
+  {
+    "id": 193,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/193",
+    "name": "Fissure 193",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00193.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "closed portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 204.6875,
+    "rank": 67
+  },
+  {
+    "id": 195,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/195",
+    "name": "Fissure 195",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00195.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "closed portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 204.6875,
+    "rank": 68
+  },
+  {
+    "id": 198,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/198",
+    "name": "Fissure 198",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00198.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "closed portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 204.6875,
+    "rank": 69
+  },
+  {
+    "id": 202,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/202",
+    "name": "Fissure 202",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00202.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "closed portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 204.6875,
+    "rank": 70
+  },
+  {
+    "id": 213,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/213",
+    "name": "Fissure 213",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00213.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "closed portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 204.6875,
+    "rank": 71
+  },
+  {
+    "id": 217,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/217",
+    "name": "Fissure 217",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00217.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "closed portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 204.6875,
+    "rank": 72
+  },
+  {
+    "id": 221,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/221",
+    "name": "Fissure 221",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00221.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "closed portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 204.6875,
+    "rank": 73
+  },
+  {
+    "id": 225,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/225",
+    "name": "Fissure 225",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00225.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "closed portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 204.6875,
+    "rank": 74
+  },
+  {
+    "id": 228,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/228",
+    "name": "Fissure 228",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00228.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "closed portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 204.6875,
+    "rank": 75
+  },
+  {
+    "id": 233,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/233",
+    "name": "Fissure 233",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00233.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "closed portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 204.6875,
+    "rank": 76
+  },
+  {
+    "id": 244,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/244",
+    "name": "Fissure 244",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00244.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "closed portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 204.6875,
+    "rank": 77
+  },
+  {
+    "id": 7,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/7",
+    "name": "Fissure 007",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00007.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "liminal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 205.859375,
+    "rank": 78
+  },
+  {
+    "id": 25,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/25",
+    "name": "Fissure 025",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00025.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "liminal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 205.859375,
+    "rank": 79
+  },
+  {
+    "id": 28,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/28",
+    "name": "Fissure 028",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00028.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "liminal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 205.859375,
+    "rank": 80
+  },
+  {
+    "id": 37,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/37",
+    "name": "Fissure 037",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00037.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "liminal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 205.859375,
+    "rank": 81
+  },
+  {
+    "id": 38,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/38",
+    "name": "Fissure 038",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00038.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "liminal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 205.859375,
+    "rank": 82
+  },
+  {
+    "id": 39,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/39",
+    "name": "Fissure 039",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00039.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "liminal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 205.859375,
+    "rank": 83
+  },
+  {
+    "id": 52,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/52",
+    "name": "Fissure 052",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00052.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "liminal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 205.859375,
+    "rank": 84
+  },
+  {
+    "id": 63,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/63",
+    "name": "Fissure 063",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00063.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "liminal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 205.859375,
+    "rank": 85
+  },
+  {
+    "id": 68,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/68",
+    "name": "Fissure 068",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00068.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "liminal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 205.859375,
+    "rank": 86
+  },
+  {
+    "id": 81,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/81",
+    "name": "Fissure 081",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00081.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "liminal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 205.859375,
+    "rank": 87
+  },
+  {
+    "id": 82,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/82",
+    "name": "Fissure 082",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00082.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "liminal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 205.859375,
+    "rank": 88
+  },
+  {
+    "id": 86,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/86",
+    "name": "Fissure 086",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00086.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "liminal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 205.859375,
+    "rank": 89
+  },
+  {
+    "id": 88,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/88",
+    "name": "Fissure 088",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00088.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "liminal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 205.859375,
+    "rank": 90
+  },
+  {
+    "id": 90,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/90",
+    "name": "Fissure 090",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00090.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "liminal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 205.859375,
+    "rank": 91
+  },
+  {
+    "id": 94,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/94",
+    "name": "Fissure 094",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00094.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "liminal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 205.859375,
+    "rank": 92
+  },
+  {
+    "id": 95,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/95",
+    "name": "Fissure 095",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00095.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "liminal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 205.859375,
+    "rank": 93
+  },
+  {
+    "id": 100,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/100",
+    "name": "Fissure 100",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00100.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "liminal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 205.859375,
+    "rank": 94
+  },
+  {
+    "id": 103,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/103",
+    "name": "Fissure 103",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00103.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "liminal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 205.859375,
+    "rank": 95
+  },
+  {
+    "id": 109,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/109",
+    "name": "Fissure 109",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00109.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "liminal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 205.859375,
+    "rank": 96
+  },
+  {
+    "id": 112,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/112",
+    "name": "Fissure 112",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00112.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "liminal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 205.859375,
+    "rank": 97
+  },
+  {
+    "id": 121,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/121",
+    "name": "Fissure 121",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00121.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "liminal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 205.859375,
+    "rank": 98
+  },
+  {
+    "id": 123,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/123",
+    "name": "Fissure 123",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00123.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "liminal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 205.859375,
+    "rank": 99
+  },
+  {
+    "id": 132,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/132",
+    "name": "Fissure 132",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00132.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "liminal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 205.859375,
+    "rank": 100
+  },
+  {
+    "id": 133,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/133",
+    "name": "Fissure 133",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00133.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "liminal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 205.859375,
+    "rank": 101
+  },
+  {
+    "id": 134,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/134",
+    "name": "Fissure 134",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00134.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "liminal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 205.859375,
+    "rank": 102
+  },
+  {
+    "id": 143,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/143",
+    "name": "Fissure 143",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00143.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "liminal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 205.859375,
+    "rank": 103
+  },
+  {
+    "id": 144,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/144",
+    "name": "Fissure 144",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00144.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "liminal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 205.859375,
+    "rank": 104
+  },
+  {
+    "id": 155,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/155",
+    "name": "Fissure 155",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00155.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "liminal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 205.859375,
+    "rank": 105
+  },
+  {
+    "id": 167,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/167",
+    "name": "Fissure 167",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00167.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "liminal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 205.859375,
+    "rank": 106
+  },
+  {
+    "id": 172,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/172",
+    "name": "Fissure 172",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00172.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "liminal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 205.859375,
+    "rank": 107
+  },
+  {
+    "id": 186,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/186",
+    "name": "Fissure 186",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00186.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "liminal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 205.859375,
+    "rank": 108
+  },
+  {
+    "id": 199,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/199",
+    "name": "Fissure 199",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00199.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "liminal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 205.859375,
+    "rank": 109
+  },
+  {
+    "id": 203,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/203",
+    "name": "Fissure 203",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00203.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "liminal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 205.859375,
+    "rank": 110
+  },
+  {
+    "id": 207,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/207",
+    "name": "Fissure 207",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00207.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "liminal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 205.859375,
+    "rank": 111
+  },
+  {
+    "id": 211,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/211",
+    "name": "Fissure 211",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00211.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "liminal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 205.859375,
+    "rank": 112
+  },
+  {
+    "id": 214,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/214",
+    "name": "Fissure 214",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00214.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "liminal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 205.859375,
+    "rank": 113
+  },
+  {
+    "id": 220,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/220",
+    "name": "Fissure 220",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00220.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "liminal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 205.859375,
+    "rank": 114
+  },
+  {
+    "id": 223,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/223",
+    "name": "Fissure 223",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00223.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "liminal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 205.859375,
+    "rank": 115
+  },
+  {
+    "id": 227,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/227",
+    "name": "Fissure 227",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00227.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "liminal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 205.859375,
+    "rank": 116
+  },
+  {
+    "id": 239,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/239",
+    "name": "Fissure 239",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00239.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "liminal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 205.859375,
+    "rank": 117
+  },
+  {
+    "id": 240,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/240",
+    "name": "Fissure 240",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00240.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "liminal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 205.859375,
+    "rank": 118
+  },
+  {
+    "id": 248,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/248",
+    "name": "Fissure 248",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00248.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "liminal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 205.859375,
+    "rank": 119
+  },
+  {
+    "id": 251,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/251",
+    "name": "Fissure 251",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00251.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "liminal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 205.859375,
+    "rank": 120
+  },
+  {
+    "id": 1,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/1",
+    "name": "Fissure 001",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00001.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 121
+  },
+  {
+    "id": 4,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/4",
+    "name": "Fissure 004",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00004.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 122
+  },
+  {
+    "id": 5,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/5",
+    "name": "Fissure 005",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00005.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 123
+  },
+  {
+    "id": 8,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/8",
+    "name": "Fissure 008",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00008.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 124
+  },
+  {
+    "id": 9,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/9",
+    "name": "Fissure 009",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00009.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 125
+  },
+  {
+    "id": 11,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/11",
+    "name": "Fissure 011",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00011.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 126
+  },
+  {
+    "id": 12,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/12",
+    "name": "Fissure 012",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00012.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 127
+  },
+  {
+    "id": 13,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/13",
+    "name": "Fissure 013",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00013.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 128
+  },
+  {
+    "id": 15,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/15",
+    "name": "Fissure 015",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00015.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 129
+  },
+  {
+    "id": 16,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/16",
+    "name": "Fissure 016",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00016.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 130
+  },
+  {
+    "id": 17,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/17",
+    "name": "Fissure 017",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00017.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 131
+  },
+  {
+    "id": 18,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/18",
+    "name": "Fissure 018",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00018.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 132
+  },
+  {
+    "id": 20,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/20",
+    "name": "Fissure 020",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00020.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 133
+  },
+  {
+    "id": 22,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/22",
+    "name": "Fissure 022",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00022.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 134
+  },
+  {
+    "id": 23,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/23",
+    "name": "Fissure 023",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00023.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 135
+  },
+  {
+    "id": 24,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/24",
+    "name": "Fissure 024",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00024.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 136
+  },
+  {
+    "id": 26,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/26",
+    "name": "Fissure 026",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00026.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 137
+  },
+  {
+    "id": 29,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/29",
+    "name": "Fissure 029",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00029.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 138
+  },
+  {
+    "id": 32,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/32",
+    "name": "Fissure 032",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00032.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 139
+  },
+  {
+    "id": 33,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/33",
+    "name": "Fissure 033",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00033.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 140
+  },
+  {
+    "id": 35,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/35",
+    "name": "Fissure 035",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00035.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 141
+  },
+  {
+    "id": 36,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/36",
+    "name": "Fissure 036",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00036.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 142
+  },
+  {
+    "id": 41,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/41",
+    "name": "Fissure 041",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00041.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 143
+  },
+  {
+    "id": 44,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/44",
+    "name": "Fissure 044",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00044.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 144
+  },
+  {
+    "id": 46,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/46",
+    "name": "Fissure 046",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00046.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 145
+  },
+  {
+    "id": 47,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/47",
+    "name": "Fissure 047",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00047.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 146
+  },
+  {
+    "id": 48,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/48",
+    "name": "Fissure 048",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00048.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 147
+  },
+  {
+    "id": 51,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/51",
+    "name": "Fissure 051",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00051.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 148
+  },
+  {
+    "id": 54,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/54",
+    "name": "Fissure 054",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00054.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 149
+  },
+  {
+    "id": 55,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/55",
+    "name": "Fissure 055",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00055.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 150
+  },
+  {
+    "id": 56,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/56",
+    "name": "Fissure 056",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00056.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 151
+  },
+  {
+    "id": 57,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/57",
+    "name": "Fissure 057",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00057.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 152
+  },
+  {
+    "id": 58,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/58",
+    "name": "Fissure 058",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00058.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 153
+  },
+  {
+    "id": 59,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/59",
+    "name": "Fissure 059",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00059.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 154
+  },
+  {
+    "id": 60,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/60",
+    "name": "Fissure 060",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00060.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 155
+  },
+  {
+    "id": 61,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/61",
+    "name": "Fissure 061",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00061.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 156
+  },
+  {
+    "id": 64,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/64",
+    "name": "Fissure 064",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00064.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 157
+  },
+  {
+    "id": 67,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/67",
+    "name": "Fissure 067",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00067.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 158
+  },
+  {
+    "id": 71,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/71",
+    "name": "Fissure 071",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00071.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 159
+  },
+  {
+    "id": 72,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/72",
+    "name": "Fissure 072",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00072.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 160
+  },
+  {
+    "id": 74,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/74",
+    "name": "Fissure 074",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00074.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 161
+  },
+  {
+    "id": 75,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/75",
+    "name": "Fissure 075",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00075.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 162
+  },
+  {
+    "id": 76,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/76",
+    "name": "Fissure 076",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00076.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 163
+  },
+  {
+    "id": 78,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/78",
+    "name": "Fissure 078",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00078.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 164
+  },
+  {
+    "id": 84,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/84",
+    "name": "Fissure 084",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00084.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 165
+  },
+  {
+    "id": 85,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/85",
+    "name": "Fissure 085",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00085.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 166
+  },
+  {
+    "id": 89,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/89",
+    "name": "Fissure 089",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00089.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 167
+  },
+  {
+    "id": 91,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/91",
+    "name": "Fissure 091",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00091.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 168
+  },
+  {
+    "id": 92,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/92",
+    "name": "Fissure 092",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00092.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 169
+  },
+  {
+    "id": 93,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/93",
+    "name": "Fissure 093",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00093.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 170
+  },
+  {
+    "id": 96,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/96",
+    "name": "Fissure 096",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00096.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 171
+  },
+  {
+    "id": 97,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/97",
+    "name": "Fissure 097",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00097.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 172
+  },
+  {
+    "id": 99,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/99",
+    "name": "Fissure 099",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00099.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 173
+  },
+  {
+    "id": 101,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/101",
+    "name": "Fissure 101",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00101.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 174
+  },
+  {
+    "id": 104,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/104",
+    "name": "Fissure 104",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00104.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 175
+  },
+  {
+    "id": 105,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/105",
+    "name": "Fissure 105",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00105.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 176
+  },
+  {
+    "id": 106,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/106",
+    "name": "Fissure 106",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00106.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 177
+  },
+  {
+    "id": 110,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/110",
+    "name": "Fissure 110",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00110.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 178
+  },
+  {
+    "id": 111,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/111",
+    "name": "Fissure 111",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00111.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 179
+  },
+  {
+    "id": 115,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/115",
+    "name": "Fissure 115",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00115.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 180
+  },
+  {
+    "id": 116,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/116",
+    "name": "Fissure 116",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00116.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 181
+  },
+  {
+    "id": 117,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/117",
+    "name": "Fissure 117",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00117.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 182
+  },
+  {
+    "id": 118,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/118",
+    "name": "Fissure 118",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00118.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 183
+  },
+  {
+    "id": 120,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/120",
+    "name": "Fissure 120",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00120.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 184
+  },
+  {
+    "id": 122,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/122",
+    "name": "Fissure 122",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00122.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 185
+  },
+  {
+    "id": 124,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/124",
+    "name": "Fissure 124",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00124.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 186
+  },
+  {
+    "id": 126,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/126",
+    "name": "Fissure 126",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00126.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 187
+  },
+  {
+    "id": 127,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/127",
+    "name": "Fissure 127",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00127.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 188
+  },
+  {
+    "id": 135,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/135",
+    "name": "Fissure 135",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00135.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 189
+  },
+  {
+    "id": 138,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/138",
+    "name": "Fissure 138",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00138.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 190
+  },
+  {
+    "id": 140,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/140",
+    "name": "Fissure 140",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00140.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 191
+  },
+  {
+    "id": 141,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/141",
+    "name": "Fissure 141",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00141.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 192
+  },
+  {
+    "id": 145,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/145",
+    "name": "Fissure 145",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00145.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 193
+  },
+  {
+    "id": 148,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/148",
+    "name": "Fissure 148",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00148.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 194
+  },
+  {
+    "id": 150,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/150",
+    "name": "Fissure 150",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00150.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 195
+  },
+  {
+    "id": 151,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/151",
+    "name": "Fissure 151",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00151.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 196
+  },
+  {
+    "id": 156,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/156",
+    "name": "Fissure 156",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00156.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 197
+  },
+  {
+    "id": 158,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/158",
+    "name": "Fissure 158",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00158.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 198
+  },
+  {
+    "id": 161,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/161",
+    "name": "Fissure 161",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00161.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 199
+  },
+  {
+    "id": 162,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/162",
+    "name": "Fissure 162",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00162.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 200
+  },
+  {
+    "id": 163,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/163",
+    "name": "Fissure 163",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00163.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 201
+  },
+  {
+    "id": 165,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/165",
+    "name": "Fissure 165",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00165.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 202
+  },
+  {
+    "id": 166,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/166",
+    "name": "Fissure 166",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00166.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 203
+  },
+  {
+    "id": 168,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/168",
+    "name": "Fissure 168",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00168.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 204
+  },
+  {
+    "id": 170,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/170",
+    "name": "Fissure 170",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00170.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 205
+  },
+  {
+    "id": 173,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/173",
+    "name": "Fissure 173",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00173.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 206
+  },
+  {
+    "id": 174,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/174",
+    "name": "Fissure 174",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00174.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 207
+  },
+  {
+    "id": 175,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/175",
+    "name": "Fissure 175",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00175.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 208
+  },
+  {
+    "id": 176,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/176",
+    "name": "Fissure 176",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00176.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 209
+  },
+  {
+    "id": 178,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/178",
+    "name": "Fissure 178",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00178.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 210
+  },
+  {
+    "id": 179,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/179",
+    "name": "Fissure 179",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00179.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 211
+  },
+  {
+    "id": 183,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/183",
+    "name": "Fissure 183",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00183.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 212
+  },
+  {
+    "id": 184,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/184",
+    "name": "Fissure 184",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00184.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 213
+  },
+  {
+    "id": 185,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/185",
+    "name": "Fissure 185",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00185.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 214
+  },
+  {
+    "id": 187,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/187",
+    "name": "Fissure 187",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00187.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 215
+  },
+  {
+    "id": 189,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/189",
+    "name": "Fissure 189",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00189.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 216
+  },
+  {
+    "id": 190,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/190",
+    "name": "Fissure 190",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00190.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 217
+  },
+  {
+    "id": 191,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/191",
+    "name": "Fissure 191",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00191.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 218
+  },
+  {
+    "id": 192,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/192",
+    "name": "Fissure 192",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00192.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 219
+  },
+  {
+    "id": 194,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/194",
+    "name": "Fissure 194",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00194.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 220
+  },
+  {
+    "id": 196,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/196",
+    "name": "Fissure 196",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00196.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 221
+  },
+  {
+    "id": 197,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/197",
+    "name": "Fissure 197",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00197.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 222
+  },
+  {
+    "id": 204,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/204",
+    "name": "Fissure 204",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00204.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 223
+  },
+  {
+    "id": 205,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/205",
+    "name": "Fissure 205",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00205.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 224
+  },
+  {
+    "id": 206,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/206",
+    "name": "Fissure 206",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00206.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 225
+  },
+  {
+    "id": 208,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/208",
+    "name": "Fissure 208",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00208.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 226
+  },
+  {
+    "id": 209,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/209",
+    "name": "Fissure 209",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00209.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 227
+  },
+  {
+    "id": 210,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/210",
+    "name": "Fissure 210",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00210.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 228
+  },
+  {
+    "id": 212,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/212",
+    "name": "Fissure 212",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00212.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 229
+  },
+  {
+    "id": 215,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/215",
+    "name": "Fissure 215",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00215.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 230
+  },
+  {
+    "id": 216,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/216",
+    "name": "Fissure 216",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00216.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 231
+  },
+  {
+    "id": 218,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/218",
+    "name": "Fissure 218",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00218.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 232
+  },
+  {
+    "id": 219,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/219",
+    "name": "Fissure 219",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00219.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 233
+  },
+  {
+    "id": 222,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/222",
+    "name": "Fissure 222",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00222.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 234
+  },
+  {
+    "id": 224,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/224",
+    "name": "Fissure 224",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00224.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 235
+  },
+  {
+    "id": 226,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/226",
+    "name": "Fissure 226",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00226.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 236
+  },
+  {
+    "id": 229,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/229",
+    "name": "Fissure 229",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00229.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 237
+  },
+  {
+    "id": 230,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/230",
+    "name": "Fissure 230",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00230.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 238
+  },
+  {
+    "id": 231,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/231",
+    "name": "Fissure 231",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00231.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 239
+  },
+  {
+    "id": 232,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/232",
+    "name": "Fissure 232",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00232.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 240
+  },
+  {
+    "id": 234,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/234",
+    "name": "Fissure 234",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00234.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 241
+  },
+  {
+    "id": 235,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/235",
+    "name": "Fissure 235",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00235.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 242
+  },
+  {
+    "id": 236,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/236",
+    "name": "Fissure 236",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00236.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 243
+  },
+  {
+    "id": 237,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/237",
+    "name": "Fissure 237",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00237.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 244
+  },
+  {
+    "id": 238,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/238",
+    "name": "Fissure 238",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00238.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 245
+  },
+  {
+    "id": 241,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/241",
+    "name": "Fissure 241",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00241.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 246
+  },
+  {
+    "id": 242,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/242",
+    "name": "Fissure 242",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00242.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 247
+  },
+  {
+    "id": 243,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/243",
+    "name": "Fissure 243",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00243.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 248
+  },
+  {
+    "id": 246,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/246",
+    "name": "Fissure 246",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00246.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 249
+  },
+  {
+    "id": 249,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/249",
+    "name": "Fissure 249",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00249.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 250
+  },
+  {
+    "id": 250,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/250",
+    "name": "Fissure 250",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00250.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 251
+  },
+  {
+    "id": 252,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/252",
+    "name": "Fissure 252",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00252.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 252
+  },
+  {
+    "id": 253,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/253",
+    "name": "Fissure 253",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00253.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 253
+  },
+  {
+    "id": 254,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/254",
+    "name": "Fissure 254",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00254.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 254
+  },
+  {
+    "id": 255,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/255",
+    "name": "Fissure 255",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00255.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 255
+  },
+  {
+    "id": 256,
+    "openseaUrl": "https://opensea.io/assets/0x2b4fd234e0eff06a2d35aef8ee57fb1d110c25be/256",
+    "name": "Fissure 256",
+    "image": "https://oceans404.mypinata.cloud/ipfs/QmXzn3NgrnSah5E6AevStqoF6hCBUVoge7PJNRYQTpaoGd/token_00256.png",
+    "attributes": {
+      "shape": [
+        "plane"
+      ],
+      "type": [
+        "portal"
+      ],
+      "effect": [
+        "clean"
+      ],
+      "meta__traitCount": [
+        3
+      ]
+    },
+    "rarityScore": 247.65625,
+    "rank": 256
+  }
+]
